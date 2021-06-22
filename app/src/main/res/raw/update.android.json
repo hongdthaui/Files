@@ -2,7 +2,7 @@
 	"version": "1.0",
 	"minContainerVersion": "1.0",
 	"url": {
-		"url": null,
+		"url": "https://raw.githubusercontent.com/hongdthaui/Files/master/app/src/main/res/raw/",
 		"isRelative": false
 	}
 }
